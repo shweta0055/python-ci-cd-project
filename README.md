@@ -8,15 +8,13 @@ It includes automated testing, Docker containerization, and workflow automation 
 
 **🛠️ Tech Stack**
 
-Python
+Python (Flask)
 
-Flask
+Pytest (Testing)
 
-Pytest
+Docker (Containerization)
 
-Docker
-
-GitHub Actions
+GitHub Actions (CI/CD)
 
 **⚙️ Features**
 
